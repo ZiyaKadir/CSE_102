@@ -1,0 +1,4 @@
+Customer ID = 1
+Customer Name = ziya
+Customer Phone = 687
+Customer Address = acjlsdb
